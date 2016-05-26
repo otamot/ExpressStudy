@@ -31,8 +31,8 @@ $ npm install
 $ npm start
 ```
 
-6. [localhost:3000](localhost:3000)にアクセスする
+6. [localhost:3000](http://localhost:3000)にアクセスする
 
 7. ページが表示される
 
-![HelloExpress.png](a)
+![HelloExpress.png](HelloExpress.png)
